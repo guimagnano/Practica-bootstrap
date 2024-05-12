@@ -1,20 +1,22 @@
-h1{
+h1 {
     font-size: 700%;
     text-align: center;
     font-weight: bolder;
 }
-.container-fluid{
+
+.container-fluid {
     background-color: rgb(189, 132, 242);
     font-weight: bold;
     text-align: center;
 }
 
-.container{
+.container {
     background-color: #b9f284;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 }
-#formulario{
+
+#formulario {
     background-color: rgb(189, 132, 242);
-    }
+}
